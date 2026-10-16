@@ -9,6 +9,9 @@ e cópia de preferências de minuta (com o modelo) entre usuários.
 - Kit: 📦 Criar kit para enviar a um colega e 📂 Abrir kit recebido
 - Painéis com explicação curta no topo e botões que mostram quantas preferências estão marcadas
 - Verificar atualização avisa quando é preciso recarregar a extensão
+- Correção: preferências de Carta AR agora copiam o modelo e os dados de AR (mão própria, cobrança e atos)
+- Ao colar em outro sistema (ex.: eproc1g-ef), a conferência avisa que os códigos são diferentes
+- O resultado da colagem também aparece no canto da tela
 
 ## Instalar
 
