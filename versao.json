@@ -1,0 +1,12 @@
+{
+  "versao": "1.1.0",
+  "data": "2026-10-15",
+  "download": "https://github.com/HatsuStark/eproc-plus/raw/main/eproc-plus-1.1.0.zip",
+  "novidades": [
+    "Painel Colar com filtro por nome, grupos (Individuais, Unidade, Ocultas, Importadas) e tempo estimado",
+    "Kit: exportar as preferências marcadas (com modelos) e importar direto no painel Colar, já marcadas",
+    "Progresso item a item ao colar e ao conferir",
+    "Aviso de versão nova no ícone e no popup",
+    "Ícone novo (sinal de mais)"
+  ]
+}
