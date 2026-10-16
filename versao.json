@@ -9,6 +9,7 @@
     "Verificar atualização avisa quando é preciso recarregar a extensão",
     "Correção: preferências de Carta AR agora copiam o modelo e os dados de AR (mão própria, cobrança e atos)",
     "Ao colar em outro sistema (ex.: eproc1g-ef), a conferência avisa que os códigos são diferentes",
-    "O resultado da colagem também aparece no canto da tela"
+    "O resultado da colagem também aparece no canto da tela",
+    "Confirmação de avisos agora aparece dentro do painel (\"Criar mesmo assim\" / \"Voltar\"), sem a janela do navegador que o Chrome podia bloquear"
   ]
 }
