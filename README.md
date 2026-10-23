@@ -3,15 +3,14 @@
 Extensão do Chrome com melhorias para o eproc do TJSP: pesquisa no localizador principal
 e cópia de preferências de minuta (com o modelo) entre usuários.
 
-**Versão atual: 1.2.0** (23/10/2026)
+**Versão atual: 1.2.1** (23/10/2026)
 
-- Relatório Geral de Processos: "Frase exata" no Conteúdo do Lembrete (ou texto entre aspas) traz só os processos com as palavras juntas, nessa ordem
-- O eproc busca "qualquer das palavras"; a Eproc+ confere os lembretes completos e põe o resultado em "Lista de processos"
-- Popup: Abrir kit abre o explorador de arquivos direto
+- Relatório Geral de Processos: lista "Lembrete rápido" ao lado de "Frase exata", com os lembretes de ato da automação (Recolher custas, Conferir Endereço, Pedido de Prazo, Réplica, Perito, Recurso...)
+- Escolher um lembrete preenche o Conteúdo do Lembrete e já marca a frase exata
 
 ## Instalar
 
-1. Baixe o [eproc-plus-1.2.0.zip](https://github.com/HatsuStark/eproc-plus/raw/main/eproc-plus-1.2.0.zip) e extraia numa pasta permanente
+1. Baixe o [eproc-plus-1.2.1.zip](https://github.com/HatsuStark/eproc-plus/raw/main/eproc-plus-1.2.1.zip) e extraia numa pasta permanente
    (ex.: `Documentos\eproc-plus`).
 2. Abra `chrome://extensions` e ative o **Modo do desenvolvedor**.
 3. Clique em **Carregar sem compactação** e escolha a pasta `eproc-plus` (a que tem o `manifest.json`).
